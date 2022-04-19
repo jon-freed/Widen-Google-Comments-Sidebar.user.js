@@ -14,7 +14,7 @@ A [userscript](https://en.wikipedia.org/wiki/Userscript) can modify webpages whi
 
 1. First, go install a userscript manager browser extension like [Tampermonkey](http://tampermonkey.net/) or [Greasemonkey](http://www.greasespot.net/).
 1. Then, go to the following URL to install the script:
-https://github.com/jon-freed/Widen-Google-Comments-Sidebar.user.js/raw/master/Widen-Google-Comments-Sidebar.user.js.js
+https://github.com/jon-freed/Widen-Google-Comments-Sidebar.user.js/raw/main/Widen-Google-Comments-Sidebar.user.js
 
 ## NEED SUPPORT?
 
